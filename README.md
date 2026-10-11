@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./Banner%20Futurista%20de%20Tecnologia%20e%20Marca%20Pessoal%20(3).png" width="100%" alt="Banner de Sandra Ribeiro">
 </div>
+
  Olá! Eu sou a Sandra Ribeiro
 
 💻 **Estudante de Programação | Foco em Python e Back-end** 🐍
