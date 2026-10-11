@@ -2,12 +2,10 @@
   <img src="./Banner%20Futurista%20de%20Tecnologia%20e%20Marca%20Pessoal%20(3).png" width="100%" alt="Banner de Sandra Ribeiro">
 </div>
 
- Olá! Eu sou a Sandra Ribeiro
 
-💻 **Estudante de Programação | Foco em Python e Back-end** 🐍
-
+ Olá! Eu sou a Sandra Ribeiro 
+ 💻 **Estudante de Programação | Foco em Python e Back-end** 🐍
 Estou construindo minha jornada na tecnologia, desenvolvendo minha lógica de programação e aprendendo a criar soluções através do código.
-
 Atualmente, estou aprofundando meus conhecimentos em Python e praticando por meio de projetos, sempre buscando evoluir e construir uma base sólida em programação.
 
 ## 🚀 Tecnologias e ferramentas
